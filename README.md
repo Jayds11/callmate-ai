@@ -1,1 +1,2 @@
-# callmate-ai
+# CallMate AI
+AI-powered scheduling assistant website.
