@@ -1,2 +1,3 @@
 # CallMate AI
-AI-powered scheduling assistant website.
+
+React project for AI receptionist demo.
